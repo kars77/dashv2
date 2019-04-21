@@ -1,0 +1,23 @@
+{
+    "_id" : ObjectId("5cbc27d2b0d382118d6d7a61"),
+    "name" : "Work day",
+    "projects" : [ 
+        {
+            "name" : "workday Integration",
+            "type" : "Agile",
+            "status" : "Green",
+            "Fcompl" : 62,
+            "Finprogress" : 89,
+            "Risk" : "None",
+            "BD" : 0,
+            "CC" : 99,
+            "productivity" : 99,
+            "TE" : 99,
+            "TC" : 98,
+            "DD" : 3,
+            "MTTR" : 6,
+            "ageing" : 1.2,
+            "SLA" : 1
+        }
+    ]
+}
